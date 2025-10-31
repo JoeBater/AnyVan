@@ -1,0 +1,23 @@
+# data handling
+pandas
+numpy
+
+# machine learning
+scikit-learn
+mlflow
+PuLP
+
+# visualization
+matplotlib
+seaborn
+streamlit
+
+# utilities
+requests    
+python-dotenv
+tqdm
+numba
+
+# explanations
+shap
+openai
